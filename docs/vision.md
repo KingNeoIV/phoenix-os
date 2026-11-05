@@ -31,4 +31,4 @@ The whole purpose of building it myself is to learn how to create something that
 - **gcc (compiler)**: borrowed until I build my own, after Shia16 works
 - **NASM (assembler)**: borrowed
 - **QEMU (emulator)**: borrowed, since I don't plan to replace it
-- **Limine (bootloader)**: borrowed from M1 on. I write my own boot sector in M0 to learn how it works.
+- **BIOS (firmware)**: borrowed, QEMU provides it
