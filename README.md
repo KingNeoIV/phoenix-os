@@ -17,11 +17,14 @@ Shia16 is going to be the programming language that will help create software fo
 ## Status
 
 - [ ] Milestone 0: learn/create a bootloader that will print a letter in QEMU
-- [ ] Milestone 1: kernel prints "hello"
-- [ ] Milestone 2: serial output for debugging
-- [ ] Milestone 3: interrupts and keyboard input
-- [ ] Milestone 4: memory manager
-- [ ] Milestone 5: tiny shell
+- [ ] Milestone 1: my bootloader loads a second stage that prints a message
+- [ ] Milestone 2: 32-bit protected mode
+- [ ] Milestone 3: 64-bit long mode
+- [ ] Milestone 4: my bootloader loads the kernel and the kernel prints "hello"
+- [ ] Milestone 5: serial output for debugging
+- [ ] Milestone 6: interrupts and keyboard input
+- [ ] Milestone 7: memory manager
+- [ ] Milestone 8: tiny shell
 - [ ] Shia16: first interpreter
 
 ## Getting started
@@ -46,4 +49,4 @@ phoenix-os/
 - Low-Level Programming by: Igor Zhirkov
 - The Elements of Computing Systems by: Noam Nisan & Shimon Schocken
 - [OSDev wiki](https://wiki.osdev.org)
-- [OSDev: Limine Bare Bones](https://wiki.osdev.org/Limine_Bare_Bones)
+- [OSDev: Rolling Your Own Bootloader](https://wiki.osdev.org/Roll_Your_Own_Bootloader)
