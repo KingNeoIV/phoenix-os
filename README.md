@@ -48,5 +48,6 @@ phoenix-os/
 - Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau & Andrea C. Arpaci-Dusseau
 - Low-Level Programming by Igor Zhirkov
 - The Elements of Computing Systems by Noam Nisan & Shimon Schocken
+- [Writing a Simple Operating System from Scratch](https://angom.myweb.cs.uwindsor.ca/teaching/cs330/WritingOS.pdf) by Nick Blundell
 - [OSDev wiki](https://wiki.osdev.org)
 - [OSDev: Rolling Your Own Bootloader](https://wiki.osdev.org/Roll_Your_Own_Bootloader)
