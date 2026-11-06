@@ -146,3 +146,4 @@ Windows desktop, last checked 2026-11-05.
 | gcc (MSYS2) | 15.2.0 |
 | WSL | 2.6.3.0 |
 | GitHub CLI | 2.103.3 |
+| make | 4.4.1 |
