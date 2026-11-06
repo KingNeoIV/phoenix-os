@@ -49,3 +49,13 @@ I pull at the start of a session and push at the end. I make a commit for each f
 ## Questions and ideas
 
 Open an issue on this repo. That's the best place to reach me for now.
+
+## Using AI
+
+AI can help you find the correct syntax, functions, and other things of that nature, and it can give you a good explanation. But you have to get it to teach you properly. Here's how I like to do it. Say I'm learning something new that I have no clue about. I read it, study it, and then use AI to give me an exam. First true or false questions, then multiple choice, and finally questions that I have to answer in my own words.
+
+Right now I use it to help me structure what needs to be written, check spelling and sentence structure, and make my writing logical and coherent. I also have it show me the syntax and what it means, things of that nature.
+
+Since there is no real way of telling if code is AI generated, I can't say that it isn't accepted. You can use AI, but if you really want to learn, you should do it the way I've explained. The main goal is to learn how to use critical thinking. Document everything that you can, and explain the "who, what, when, and where" of the code or concepts, or anything else you can think of. I would like you to be open about it and say that you used AI and what for. AI is here to stay, and I'm pretty sure major companies are using it too.
+
+AI is accepted. There is no real way to find out, and I'm not going to do interviews. This is for learning purposes, so everything should be properly documented. But beware: if we get AI slop or spam, your submissions will be rejected. This should to be done as professionally as possible. 
